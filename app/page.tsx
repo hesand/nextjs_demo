@@ -6,7 +6,7 @@ console.log("Home Page Rendered from server");
 
   return (
     <main>
-        <div className="text-5xl underline">Home Page2</div>  
+        <div className="text-5xl underline">Nextjs Home Page</div>  
         <Hello />
     </main>
   );
